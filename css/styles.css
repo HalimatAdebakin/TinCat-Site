@@ -8,6 +8,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
+p {
+  color: #8f8f8f;
+  font-size: 1.3rem;
+}
+
 /* Heading */
 .big-heading {
   font-family: 'Montserrat-Black' sans-serif;
@@ -72,9 +77,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Features Section */
-p {
-  color: #8f8f8f;
-}
+
 
 .icon {
   color: #92B4EC;
@@ -94,7 +97,7 @@ p {
   padding: 5%;
 }
 
-.faeture-title {
+.feature-title {
   font-size: 1.5rem;
 }
 
@@ -141,6 +144,10 @@ p {
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+.cat-breed {
+  font-size: 1.5rem;
 }
 
 .section-heading {
